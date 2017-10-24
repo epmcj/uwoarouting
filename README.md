@@ -1,5 +1,5 @@
 # uwoarouting
-Trabalho de POC - **U**ynder**W**ater **O**ptical-**A**custic **R**outing (**UWOAR**) \
+Trabalho de POC - **U**nder**W**ater **O**ptical-**A**custic **R**outing(**UWOAR**) \
 # Informações
 - Este arquivo deve estar no diretório 'DESERT_Framework/DESERT/network'.
 - Link importante: http://telecom.dei.unipd.it/ns/miracle/ns_dynamic_libraries/ns_dl_patch.html
