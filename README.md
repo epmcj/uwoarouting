@@ -1,5 +1,5 @@
 # Underwater Optical-Acoustic Routing
-Simulador + Implementacao do Algoritmo de Roteamento <br/>
+Simulador + Implementacao do Algoritmo de Roteamento para Redes Aquáticas Ópticos-Acústicas <br/>
 Desenvolvidos utilizando Python 3.4 
 
 **Node**
